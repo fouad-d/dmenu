@@ -33,6 +33,8 @@ Mouse actions supported:
 Installing dmenu
 Download the source code from this repository or use a git clone:
 
-`  git clone https://gitlab.com/fouad-dev/dmenu.git`
-`  cd dmenu-distrotube`
-`  sudo make clean install`
+`git clone https://gitlab.com/fouad-dev/dmenu.git`
+
+`cd dmenu-distrotube`
+
+`sudo make clean install`
